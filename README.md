@@ -1,1 +1,1 @@
-# kitstrand.github.io
+# kit-strand.github.io
